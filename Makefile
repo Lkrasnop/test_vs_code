@@ -1,4 +1,4 @@
-.venv:
+venv:
 	python3 -m venv .venv
 			# source .venv/bin/activate   # On macOS and Linux
 
@@ -10,5 +10,5 @@ run:	install
 	python3 tes.py
 
 remove:
-	rm -rf .venv
+	rm -rf venv
 		# deactivate
