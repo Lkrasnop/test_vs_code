@@ -1,0 +1,17 @@
+tensorflow
+pandas
+keras
+transformers
+numpy
+seaborn
+matplotlib
+colorcet
+datetime
+statsmodels
+scipy
+scikit-learn
+googlemaps
+gensim
+nltk
+openpyxl
+click
