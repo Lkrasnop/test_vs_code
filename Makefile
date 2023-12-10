@@ -29,10 +29,4 @@ git:
 
 #step 4 : git remote add origin https://github.com/Lkrasnop/test_vs_code.git
 
-#step 5 : git push -u origin main 
-
-
-venvs:
-	python3 -m venv venv && . venv/bin/activate
-
-
+#step 5 : git push -u origin main
