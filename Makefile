@@ -32,4 +32,7 @@ git:
 #step 5 : git push -u origin main 
 
 
+venvs:
+	python3 -m venv venv && . venv/bin/activate
+
 
