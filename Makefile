@@ -35,7 +35,7 @@ git:
 
 gitss:
 	git add . &&\
-	git commit -m "update makefile - update venv new now" &&\
+	git commit -m "update makefile - update venv new shit" &&\
 	git branch --move main &&\
 	git push -u origin main
 
