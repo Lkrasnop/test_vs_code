@@ -1,6 +1,6 @@
 venv:
-	python3 -m venv .venv
-			# source .venv/bin/activate   # On macOS and Linux
+	python3 -m venv venv
+			# source venv/bin/activate   # On macOS and Linux
 
 install:		
 	pip install --upgrade pip &&\
