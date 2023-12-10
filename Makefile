@@ -33,9 +33,9 @@ git:
 	git remote add origin https://github.com/Lkrasnop/test_vs_code.git &&\
 	git push -u origin main
 
-gitss:
+git:
 	git add . &&\
-	git commit -m "update makefile - update venv new shit" &&\
+	git commit -m "update makefile - update venv final" &&\
 	git branch --move main &&\
 	git push -u origin main
 
