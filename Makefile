@@ -34,19 +34,11 @@ git:
 	git push -u origin main
 
 gitss:
-    git add .
-    git commit -m "update makefile - update venv new now"
-    git branch --move main
-    git remote add origin https://github.com/Lkrasnop/test_vs_code.git
-    git push -u origin main
-
-gut:
-	git:
-    git add .
-    git commit -m "$m"
-    git push -u origin master	
-
-
+	git add . &&\
+	git commit -m "update makefile - update venv new now" &&\
+	git branch --move main &&\
+	git remote add origin https://github.com/Lkrasnop/test_vs_code.git &&\
+	git push -u origin main
 
 
 
